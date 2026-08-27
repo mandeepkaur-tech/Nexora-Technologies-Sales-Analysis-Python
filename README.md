@@ -267,13 +267,13 @@ pip install pandas numpy matplotlib seaborn jupyter
 jupyter notebook notebook/Sales_Analysis_Python_Project.ipynb
 ```
 
-Make sure to update the 4 csv file paths at the top of the notebook to match your folder structure.
+Make sure to update the 4 csv files paths at the top of the notebook to match your folder structure.
 
 ---
 
 ## 📄 Documentation
 
-A full formal write-up — Executive Summary, Dataset Information, Data Preparation, Insights & Findings, Recommendations, and Conclusion — is available in [`docs/Project-Documentation.docx`](docs/Project-Documentation.docx).
+A full formal write-up — Executive Summary, Dataset Information, Data Preparation, Insights & Findings, Recommendations, and Conclusion — is available in [`docs/Project-Documentation.docx`](https://github.com/mandeepkaur-tech/Nexora-Technologies-Sales-Analysis-Python/blob/main/Project-Documentation.docx).
 
 ---
 
