@@ -1,0 +1,2 @@
+# Nexora-Technologies-Sales-Analysis-Python
+Nexora Technologies Sales Analysis - End-to-end Python &amp; pandas project cleaning 4 messy e-commerce datasets (customers,orders,order_items,products) &amp; analyzing 805 orders from 397 customers. Covers sales trends, category profitability, customer segmentation, geographic insights &amp; business recommendations using Pandas, NumPy, Matplotlib &amp; Seaborn.
